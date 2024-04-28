@@ -1,0 +1,22 @@
+{
+  "name": "@jandiasnow/antv-ava",
+  "version": "0.0.1",
+  "description": "antv-ava demos based on @antv/ava",
+  "license": "MIT",
+  "scripts": {
+    "build": "father build",
+    "build:deps": "father prebundle",
+    "dev": "cross-env NODE_ENV=development father dev",
+    "docs:build": "dumi build",
+    "prepublishOnly": "father doctor && npm run build",
+    "start": "npm run dev"
+  },
+  "devDependencies": {
+    "@antv/ava": "^3.4.1",
+    "@antv/ava-react": "^3.3.1",
+    "@antv/g2": "^5.1.19"
+  },
+  "authors": [
+    "88074479@qq.com"
+  ]
+}

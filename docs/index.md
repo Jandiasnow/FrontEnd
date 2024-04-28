@@ -11,5 +11,6 @@ hero:
 features:
   - title: AVA
     emoji: 💎
+    link: /packages/antv-ava
     description: Intelligent visualization
 ---
