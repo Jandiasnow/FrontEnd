@@ -11,6 +11,7 @@ const pkgDirList = readdirSync(join(__dirname, 'packages')).filter(
 );
 const pkgs = {
   'antv-ava': 'antv-ava',
+  'annotate-text': 'annotate-text',
 };
 export const alias = pkgDirList.reduce((pre, name) => {
   pre[`@jandia/${pkgs[name]}`] = join(__dirname, 'packages', name, 'src');

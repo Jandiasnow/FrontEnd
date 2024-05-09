@@ -17,14 +17,19 @@ $ pnpm run build
 
 ## 📦 Ecosystem
 
-| NAME                                 | REPO                                 | NPM                                  | DOWNLOAD               |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ | ---------------------- |
-| [@jandiasnow/antv-ava][antv-ava-url] | [packages/antv-ava][antv-ava-github] | [![][antv-ava-shield]][antv-ava-url] | ![][antv-ava-download] |
+| NAME                                           | REPO                                           | NPM                                            | DOWNLOAD                    |
+| ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | --------------------------- |
+| [@jandiasnow/antv-ava][antv-ava-url]           | [packages/antv-ava][antv-ava-github]           | [![][antv-ava-shield]][antv-ava-url]           | ![][antv-ava-download]      |
+| [@jandiasnow/annotate-text][annotate-text-url] | [packages/annotate-text][annotate-text-github] | [![][annotate-text-shield]][annotate-text-url] | ![][annotate-text-download] |
 
 ## LICENSE
 
 MIT
 
+[annotate-text-download]: https://img.shields.io/npm/dt/@jandiasnow/annotate-text?labelColor=black&style=flat-square
+[annotate-text-github]: https://github.com/jandiasnow/frontend/tree/master/packages/annotate-text/README.md
+[annotate-text-shield]: https://img.shields.io/npm/v/@jandiasnow/annotate-text?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[annotate-text-url]: https://www.npmjs.com/package/@jandiasnow/annotate-text
 [antv-ava-download]: https://img.shields.io/npm/dt/@jandiasnow/antv-ava?labelColor=black&style=flat-square
 [antv-ava-github]: https://github.com/jandiasnow/frontend/tree/master/packages/antv-ava/README.md
 [antv-ava-shield]: https://img.shields.io/npm/v/@jandiasnow/antv-ava?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square

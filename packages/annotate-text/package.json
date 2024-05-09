@@ -1,0 +1,26 @@
+{
+  "name": "@jandiasnow/annotate-text",
+  "version": "0.0.1",
+  "description": "annotate-text demos based on react-text-annotate-blend, react-nlp-annotate, @recogito/react-text-annotator, @recogito/recogito-js, annotato",
+  "license": "MIT",
+  "scripts": {
+    "build": "father build",
+    "build:deps": "father prebundle",
+    "dev": "cross-env NODE_ENV=development father dev",
+    "docs:build": "dumi build",
+    "prepublishOnly": "father doctor && npm run build",
+    "start": "npm run dev"
+  },
+  "devDependencies": {
+    "@annotorious/react": "^3.0.0-rc.23",
+    "@recogito/react-text-annotator": "^3.0.0-rc.26",
+    "@recogito/recogito-js": "^1.8.4",
+    "@recogito/text-annotator": "^3.0.0-rc.26",
+    "annotato": "^1.0.0",
+    "react-nlp-annotate": "^0.3.4",
+    "react-text-annotate-blend": "^1.2.0"
+  },
+  "authors": [
+    "88074479@qq.com"
+  ]
+}

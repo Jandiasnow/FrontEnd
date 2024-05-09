@@ -13,4 +13,8 @@ features:
     emoji: 💎
     link: /packages/antv-ava
     description: Intelligent visualization
+  - title: annotate-text
+    emoji: 💎
+    link: /packages/annotate-text
+    description: Intelligent visualization
 ---
