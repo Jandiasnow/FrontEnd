@@ -9,7 +9,7 @@ order: 0
 
 <h1>Annotate Text </h1>
 
-🌐 [@jadiasnow/annotate-text](https://www.npmjs.com/package/@jandiasnow/annotate-text) is an demo examples for
+📜 [@jandiasnow/annotate-text](https://www.npmjs.com/package/@jandiasnow/annotate-text) is an demo examples for
 [react-text-annotate-blend](https://github.com/smhaley/react-text-annotate-blend),
 [react-nlp-annotate](https://github.com/UniversalDataTool/react-nlp-annotate),
 [@recogito/react-text-annotator](https://github.com/recogito/text-annotator-js/blob/main/packages/text-annotator-react/package.json),
@@ -18,13 +18,13 @@ order: 0
 
 </div>
 
-### website
+## 🔗 website
 
 <https://github.com/HumanSignal/awesome-data-labeling#text>
 
 <https://github.com/FransHeuvelmans/Textcodify?tab=readme-ov-file>
 
-## Warehouse comparison
+## 🆚 Warehouse comparison
 
 | name                                                                                                                                 | website repo                                                                  | advantage                                                                                                          | defect                                                                                                                                              | used               |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
@@ -34,7 +34,7 @@ order: 0
 | [@recogito/recogito-js](https://github.com/recogito/recogito-js)                                                                     | -                                                                             | 1. 最近一年有更新 <br> 2. 支持 html 类型标记 <br> 3. 支持标签关系标记                                              | 1. 没有 react 版本 <br> 2. 样式不好调整，点击事件不好添加                                                                                           | 页面功能复杂可考虑 |
 | [annotato](https://github.com/YusufCelik/annotato)                                                                                   | -                                                                             | 1. react 版本，代码简单，二次开发比较容易 <br> 2. 支持点击事件、样式自定义<br> 3. 支持 html<br> 4. 使用简单        | 1. 最近更新 3 年前 <br> 2. 不支持 html 类型 <br> 3. 不支持标签关系标记                                                                              | 页面功能简单可使用 |
 
-## 🌐 Usage
+## 📝 Usage
 
 ### react-text-annotate-blend
 

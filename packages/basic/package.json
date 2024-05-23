@@ -1,0 +1,29 @@
+{
+  "name": "@jandiasnow/basic",
+  "version": "0.0.1",
+  "description": "Basic warehouse of frontend",
+  "license": "MIT",
+  "scripts": {
+    "build": "father build",
+    "build:deps": "father prebundle",
+    "dev": "cross-env NODE_ENV=development father dev",
+    "docs:build": "dumi build",
+    "prepublishOnly": "father doctor && npm run build",
+    "start": "npm run dev"
+  },
+  "devDependencies": {
+    "@types/react": "npm:types-react@rc",
+    "@types/react-dom": "npm:types-react-dom@rc",
+    "react": "rc",
+    "react-dom": "rc",
+    "typescript": "^5.4.5",
+    "use-immer": "latest"
+  },
+  "authors": [
+    "88074479@qq.com"
+  ],
+  "overrides": {
+    "@types/react": "npm:types-react@rc",
+    "@types/react-dom": "npm:types-react-dom@rc"
+  }
+}

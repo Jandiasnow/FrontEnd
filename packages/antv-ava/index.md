@@ -9,19 +9,11 @@ order: 0
 
 <h1>Antv Ava </h1>
 
-🌐 [@jadiasnow/antv-ava](https://www.npmjs.com/package/@jandiasnow/ava) is an demo examples for [@antv/ava](https://ava.antv.antgroup.com/guide/intro).
+🚀 [@jandiasnow/antv-ava](https://www.npmjs.com/package/@jandiasnow/ava) is an demo examples for [@antv/ava](https://ava.antv.antgroup.com/guide/intro).
 
 </div>
 
-## 📦 Installation
-
-To install @, run the following command:
-
-```bash
-
-```
-
-## 🌐 Usage
+## 📝 Usage
 
 ### 图表知识库（ckb）
 

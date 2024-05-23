@@ -9,12 +9,16 @@ hero:
     - text: Github
       link: https://github.com/Jandiasnow/FrontEnd
 features:
+  - title: basic
+    emoji: 🧩
+    link: /packages/basic
+    description: Basic warehouse of frontend
   - title: AVA
-    emoji: 💎
+    emoji: 🚀
     link: /packages/antv-ava
-    description: Intelligent visualization
+    description: antv-ava demos
   - title: annotate-text
-    emoji: 💎
+    emoji: 📜
     link: /packages/annotate-text
-    description: Intelligent visualization
+    description: annotate-text warehouse comparison and use examples
 ---
